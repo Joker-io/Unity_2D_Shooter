@@ -1,6 +1,7 @@
 # Unity_2D_Shooter
 ***********************************************************************************************************************************************************************************
 **This is my source code with assets and audio**
+
 I cannot allow permission to distribute this game for marketing purposes, as it was created for educational purposes (:
 Assets used can be found online, with a Google search ofc.
 ***********************************************************************************************************************************************************************************
