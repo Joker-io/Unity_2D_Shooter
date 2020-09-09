@@ -8,6 +8,8 @@ Assets used can be found online, with a Google search ofc.
 
 I created this game for funnsies,
 and insipired by the Covid19 Pandemic.
+
+
 **I do not own the rights to the music**
 
 Basic 2D Shooting mechanics:
