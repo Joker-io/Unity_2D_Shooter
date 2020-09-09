@@ -4,12 +4,12 @@
 
 I cannot allow permission to distribute this game for marketing purposes, as it was created for educational purposes (:
 Assets used can be found online, with a Google search ofc.
-***********************************************************************************************************************************************************************************
-## Gameplay and Info
 
+===================================================================================================================================================================================
+# Gameplay and Info
 I created this game for funnsies,
 and insipired by the Covid19 Pandemic.
-
+===================================================================================================================================================================================
 
 **I do not own the rights to the music**
 
